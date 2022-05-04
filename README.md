@@ -1,4 +1,4 @@
-# Emerging Trend Notifier
+# tw_trend
 
 A new Flutter project.
 
